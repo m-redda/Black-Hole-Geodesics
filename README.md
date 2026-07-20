@@ -1,6 +1,3 @@
-# Black-Hole-Geodesics
-Python implementation of numerical methods for studying particle motion in Schwarzschild, Reissner–Nordström and Kerr black hole spacetimes.
-
 # Black Hole Geodesics
 
 A Python project for the symbolic derivation, numerical simulation, and visualisation of particle motion in curved spacetime.
